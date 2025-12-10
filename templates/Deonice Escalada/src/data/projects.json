@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Viral Marketing Campaign",
+        "description": "Custom illustrations for a marketing campaign that went viral.",
+        "image": "images/viral_campaign.jpg",
+        "link": "https://example.com/viral-campaign"
+    },
+    {
+        "title": "E-commerce Website Redesign",
+        "description": "A complete redesign of an e-commerce website to enhance user experience and increase sales.",
+        "image": "images/ecommerce_redesign.jpg",
+        "link": "https://example.com/ecommerce-redesign"
+    },
+    {
+        "title": "Social Media Branding",
+        "description": "Developed a cohesive branding strategy for a client's social media presence.",
+        "image": "images/social_media_branding.jpg",
+        "link": "https://example.com/social-media-branding"
+    },
+    {
+        "title": "Mobile App UI/UX Design",
+        "description": "Designed the user interface and user experience for a mobile application.",
+        "image": "images/mobile_app_design.jpg",
+        "link": "https://example.com/mobile-app-design"
+    }
+]

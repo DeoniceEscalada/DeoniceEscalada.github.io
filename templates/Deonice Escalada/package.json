@@ -1,0 +1,21 @@
+{
+  "name": "deonice-escalada",
+  "version": "1.0.0",
+  "description": "Portfolio website for Deonice Escalada showcasing projects and contact information.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server templates",
+    "build": "echo 'Build process can be defined here.'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "deonice escalada"
+  ],
+  "author": "Deonice Escalada",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
